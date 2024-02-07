@@ -25,6 +25,8 @@ public class StepDefe extends BaseClass {
 
 	TestContext testContext;
 	LoginPage loginPage;
+	
+	
 
 	public StepDefe(TestContext context) throws Throwable {
 

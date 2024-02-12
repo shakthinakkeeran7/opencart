@@ -11,10 +11,10 @@ import org.testng.annotations.DataProvider;
 import org.testng.annotations.Test;
 
 import com.fasterxml.jackson.databind.deser.Deserializers.Base;
-import com.partycity.baseclass.BaseClass;
-import com.partycity.manager.FileReaderManager;
-import com.partycity.pageobjects.LoginPage;
-import com.partycity.util.TestContext;
+import com.opencart.baseclass.BaseClass;
+import com.opencart.manager.FileReaderManager;
+import com.opencart.pageobjects.LoginPage;
+import com.opencart.util.TestContext;
 
 import io.cucumber.datatable.DataTable;
 import io.cucumber.java.en.Given;

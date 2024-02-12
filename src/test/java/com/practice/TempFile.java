@@ -2,7 +2,7 @@ package com.practice;
 
 import org.json.simple.JSONObject;
 
-import com.partycity.util.JsonUtils;
+import com.opencart.util.JsonUtils;
 
 public class TempFile extends JsonUtils {
 

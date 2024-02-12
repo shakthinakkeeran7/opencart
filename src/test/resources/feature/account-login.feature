@@ -7,7 +7,7 @@ Feature: Login Functionality
     Given I am on the login page to contine
 	
 	
-	@test2
+	
   Scenario: Successful login with valid email and password
     
     When I enter my valid "5858mgnn@justdefinition.com" and "Shakthi#123"
